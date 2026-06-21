@@ -1,1 +1,1 @@
-# redhat
+# esto es una prueba para un examen de redhat
